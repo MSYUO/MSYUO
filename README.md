@@ -1,37 +1,43 @@
+<div align="center">
+
 # Minsu Yoo
 
-`Cloud Systems` `Distributed Computing` `Performance Modeling`
+### Cloud Systems · Containerized Workloads · Performance Modeling
 
-I'm an undergraduate researcher interested in building and evaluating cloud-native systems.
+Undergraduate researcher exploring **cloud systems**, **distributed computing**,  
+and **AI-driven performance optimization**.
 
-Currently working on measurement-driven worker allocation for containerized probabilistic search workloads.
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:7c3aed&height=140&section=header&text=MSYUO&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Systems%20%7C%20Performance%20Modeling%20%7C%20AI%20Optimization&descSize=15&descAlignY=75" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-MSYUO-181717?style=flat-square&logo=github)](https://github.com/MSYUO)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7265--0503-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7265-0503)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+</div>
 
 ---
 
-## Research
+## About
 
-- Containerized probabilistic search workloads
-- Worker allocation and performance modeling
-- SLO-aware resource control
-- AI-driven system optimization
+I am an undergraduate researcher interested in building and evaluating  
+cloud-native systems with a focus on **containerized workloads**,  
+**worker allocation**, and **performance modeling**.
 
-## Projects
+Currently, I am working on a measurement-driven study of probabilistic search workloads  
+in containerized environments.
 
-### containerized-parallel-search
-Experimental framework for measuring worker allocation behavior in Docker-based probabilistic search workloads.
+---
 
-### eci-insurance-risk-modeling
-AI-based insurance and risk analysis project using structured data.
+## Research Interests
 
-### jari-api-server
-Backend API server for AI/data service integration.
-
-## Stack
-
-Python · Docker · Kubernetes · FastAPI · Pandas · PyTorch · GitHub Actions
-
-## Academic
-
-- Undergraduate research in cloud systems and AI optimization
-- KIPS conference paper / award-winning research
-- ORCID: 0009-0007-7265-0503
+```text
+Cloud Infrastructure        Distributed Systems
+Containerized Workloads     Performance Modeling
+Worker Allocation           SLO-aware Resource Control
+AI-driven Optimization      Experimental Systems Research
